@@ -1,4 +1,4 @@
 # Victor Horbunkoff
 Website coding samples
 
-[Cource homework](https://horbunkoff.github.io/tree/master/Learning%20Cource%20Site "Simple landing page, bootstrap") - Simple landing page, Bootstrap4
+[Cource homework](https://github.com/horbunkoff/horbunkoff.github.io/blob/master/Learning%20Cource%20Site/index.html "Simple landing page, bootstrap") - Simple landing page, Bootstrap4
